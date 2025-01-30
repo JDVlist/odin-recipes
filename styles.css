@@ -15,16 +15,15 @@ h1.mainpage {
   padding-top: 10%;
 }
 
- 
-ul {
-    text-align: center;
-    font-size: medium;
+.img-comment {
+  text-align: center;
 }
 
 /* images */
 .img-container {
   display: flex;
   justify-content: center;
-}#chefhat {
+}
+#chefhat {
   padding-top: 5%;
 }
