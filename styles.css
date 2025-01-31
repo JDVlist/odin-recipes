@@ -24,6 +24,10 @@ h1.mainpage {
   display: flex;
   justify-content: center;
 }
+.img-container .img-recipe{
+  width: 300px;
+  height: auto;
+}
 #chefhat {
   padding-top: 5%;
 }
